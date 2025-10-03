@@ -14,7 +14,7 @@ Cada pasta representa uma matéria específica e, dentro dela, você encontrará
   - /Exercicio-01
   - /Exercicio-02
 - **/Nome-da-Materia-2**
-  - /Projeto-Final
+  - /Exercicio-01
 - ... e assim por diante.
 
 Obrigado pela visita!
