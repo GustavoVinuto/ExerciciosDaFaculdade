@@ -1,20 +1,15 @@
-.alternada{
-    list-style: upper-alpha;
-    font-size: 30px;
-    color: blue;
-    width: fit-content;
+.imagem{
+    background: url("Logo_Preto.png") no-repeat;
+    width: 200px;
+    height: 200px;
+    display: block;
+    background-size: contain;
 }
 
-.alternada li:nth-child(odd){
-    background-color: yellow;
+.imagem:hover{
+    background-position: 0px 50px;
 }
 
-.alternada li:nth-child(even){
-    background-color: lightgray;
-}
-
-.alternada li:hover{
-    background-color: orange;
-    color: black;
-    font-weight: bold;
+.imagem:active{
+    background-position: 50px 50px;
 }
